@@ -1,0 +1,12 @@
+.news-editor-menu-bar {
+	position: sticky;
+	top: 64px;
+	opacity: 1;
+	margin: 0;
+	left: 50%;
+	z-index: 10;
+	background: var(--slate-2);
+	padding: 0.75em;
+	border: 1px solid var(--slate-7);
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1)
+}

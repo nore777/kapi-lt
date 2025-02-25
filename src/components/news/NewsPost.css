@@ -1,0 +1,7 @@
+.news-post {
+	transition: 0.2s;
+}
+
+.news-post:hover {
+	transform: scale(1.03)
+}

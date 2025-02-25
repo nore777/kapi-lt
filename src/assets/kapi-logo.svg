@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="54.089695mm"
+   height="38.116016mm"
+   viewBox="0 0 54.089695 38.116017"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="KAPI_LOGO1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.8044052"
+     inkscape:cx="72.386116"
+     inkscape:cy="80.765789"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-52.857756,-74.739624)">
+    <path
+       id="rect1"
+       style="fill:white;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.4;paint-order:markers stroke fill"
+       inkscape:label="rect1"
+       d="m 71.915507,74.739624 -19.057751,19.058268 19.058268,19.057748 6.926192,-6.92619 -1.542025,-1.54254 -5.384684,5.38468 -15.973702,-15.973698 15.974219,-15.974218 15.973702,15.973701 -6.925159,6.925155 1.542025,1.54255 8.467183,-8.467188 -9.528617,-9.528617 -1.543058,-1.542542 a 1.50015,1.50015 0 0 1 -5.17e-4,-10e-4 z" />
+    <path
+       id="rect1-3"
+       style="fill:white;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.4;paint-order:markers stroke fill"
+       d="m 87.889693,74.739746 -6.926192,6.926192 1.542024,1.542025 5.384685,-5.384684 15.9737,15.973702 -15.974217,15.974219 -15.973702,-15.973703 6.925675,-6.926192 -1.542025,-1.542024 -8.4677,8.468216 19.057752,19.057753 19.057757,-19.057753 z" />
+  </g>
+</svg>

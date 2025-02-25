@@ -1,0 +1,12 @@
+.NewsPostSmall {
+	border-left: 5px solid var(--gray-7);
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+
+}
+
+.NewsPostSmall:hover {
+	background-color: var(--slate-3);
+	cursor: pointer;	
+}
